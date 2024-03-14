@@ -10,3 +10,6 @@ body {
     user-select: none;
     color: brown;
 }
+h2 {
+    color: red;
+}
